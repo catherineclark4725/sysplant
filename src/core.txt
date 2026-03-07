@@ -24,3 +24,4 @@ Your Windows syscall hooking factory - feat Canterlot's Gate - All accessible ov
 # keep defaults in sync with the manifest
 # guard against empty input
 # guard against empty input
+# clarify the control flow
