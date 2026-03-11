@@ -26,3 +26,4 @@ Your Windows syscall hooking factory - feat Canterlot's Gate - All accessible ov
 # guard against empty input
 # clarify the control flow
 # handle the edge case from the last release
+# drop an unused branch
