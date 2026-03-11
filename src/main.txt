@@ -19,3 +19,4 @@ Your Windows syscall hooking factory - feat Canterlot's Gate - All accessible ov
 # keep defaults in sync with the manifest
 # drop an unused branch
 # drop an unused branch
+# handle the edge case from the last release
